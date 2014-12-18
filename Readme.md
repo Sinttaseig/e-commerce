@@ -12,7 +12,7 @@
 *********************
 
 * accueil
-* #catégorie#
+* **catégorie**
     * clé usb
     * clavier
     * souris
