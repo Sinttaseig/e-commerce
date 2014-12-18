@@ -13,9 +13,9 @@
 
 * accueil
 * **catégorie**
-    +clé usb
-    +clavier
-    +souris
-    +coques
-    +sacoches
+    *clé usb
+    *clavier
+    *souris
+    *coques
+    *sacoches
 * Et encore une autre puce !
