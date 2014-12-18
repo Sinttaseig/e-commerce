@@ -2,7 +2,7 @@
 *********************
 
 | Services      | Avantages      | Inconvénients  |
-| :-------------------- |:--------------------| :--------------------|
+| :--------------------: |:--------------------:| :--------------------:|
 | Bigcartel     | Pas de configuration pour l’utilisateur            |     Dépendance à une société|
 | Wizishop      | Facile à mettre en place / simplicité             |     Le prix / abonnements|
 | E-monsite       | Pas de maintenances à faire pour les users (panne serveur…)             |     Les commissions sur les ventes|
