@@ -23,3 +23,12 @@
     * paiement
 * **actualité promo**
     * meilleur vente
+
+##Paramètre##
+*********************
+* **Titre :**
+    * technofolie.com
+* **Concept :**
+    * Vente de produit technologique personnalisé et insolite.
+
+
