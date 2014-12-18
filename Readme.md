@@ -13,9 +13,13 @@
 
 * accueil
 * **catégorie**
-    *clé usb
-    *clavier
-    *souris
-    *coques
-    *sacoches
-* Et encore une autre puce !
+    * clé usb
+    * clavier
+    * souris
+    * coques
+    * sacoches
+* **inscription**
+    * panier
+    * paiement
+* **actualité promo**
+    * meilleur vente
